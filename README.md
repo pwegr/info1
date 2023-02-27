@@ -1,2 +1,2 @@
 # info
-This page contains link to project page. 
+This repository only contains link to a project page. 
